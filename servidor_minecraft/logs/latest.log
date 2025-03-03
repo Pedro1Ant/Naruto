@@ -2993,3 +2993,48 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:redstone_wire'
 [20:00:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Set own game mode to Creative Mode]
 [20:00:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
 [20:00:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 20 items!
+[20:01:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[20:01:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported TUTUMA to gamesforever750]
+[20:01:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: There are 2/5 players online:
+[20:01:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA, gamesforever750
+[20:01:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Set own game mode to Survival Mode]
+[20:01:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Set own game mode to Creative Mode]
+[20:01:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Set own game mode to Survival Mode]
+[20:02:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[20:02:07] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity narutomod:gedo_statue that already exists with UUID 7048f36c-9838-4637-9935-9c4965e75b9a
+[20:02:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity narutomod:gedo_statue that already exists with UUID 7048f36c-9838-4637-9935-9c4965e75b9a
+[20:02:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 38 items!
+[20:02:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity narutomod:gedo_statue that already exists with UUID 7048f36c-9838-4637-9935-9c4965e75b9a
+[20:02:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity narutomod:gedo_statue that already exists with UUID 7048f36c-9838-4637-9935-9c4965e75b9a
+[20:02:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity narutomod:gedo_statue that already exists with UUID 7048f36c-9838-4637-9935-9c4965e75b9a
+[20:02:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo Skeleton moved wrongly!
+[20:02:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity narutomod:gedo_statue that already exists with UUID 7048f36c-9838-4637-9935-9c4965e75b9a
+[20:02:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity narutomod:gedo_statue that already exists with UUID 7048f36c-9838-4637-9935-9c4965e75b9a
+[20:03:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity narutomod:gedo_statue that already exists with UUID 7048f36c-9838-4637-9935-9c4965e75b9a
+[20:03:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity narutomod:gedo_statue that already exists with UUID 7048f36c-9838-4637-9935-9c4965e75b9a
+[20:03:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity narutomod:gedo_statue that already exists with UUID 7048f36c-9838-4637-9935-9c4965e75b9a
+[20:03:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity narutomod:gedo_statue that already exists with UUID 7048f36c-9838-4637-9935-9c4965e75b9a
+[20:03:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[20:03:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 6 items!
+[20:03:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Set own game mode to Creative Mode]
+[20:04:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Set own game mode to Survival Mode]
+[20:04:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[20:04:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Set own game mode to Creative Mode]
+[20:04:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Set own game mode to Survival Mode]
+[20:05:07] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity narutomod:gedo_statue that already exists with UUID 7048f36c-9838-4637-9935-9c4965e75b9a
+[20:05:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[20:05:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 5 items!
+[20:05:35] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[20:05:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported TUTUMA to gamesforever750]
+[20:06:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 was killed by TUTUMA using ninjutsu
+[20:07:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[20:07:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 34 items!
+[20:07:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 was squished too much
+[20:07:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 lost connection: Disconnected
+[20:07:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 left the game
+[20:08:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA lost connection: Disconnected
+[20:08:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA left the game
+[20:08:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[20:08:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 14 items!
+[20:10:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[20:10:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!

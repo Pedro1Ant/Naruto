@@ -2767,3 +2767,229 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:redstone_wire'
 [19:39:33] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [19:39:33] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [19:39:33] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:41:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[19:41:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[19:41:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: gamesforever750 lost connection: Timed out
+[19:41:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 left the game
+[19:42:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved wrongly!
+[19:43:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[19:43:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[19:45:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Set own game mode to Creative Mode]
+[19:45:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Set own game mode to Survival Mode]
+[19:45:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TUTUMA has reached the goal [Rinnegan Awakened]
+[19:46:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[19:46:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[19:46:30] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[19:46:30] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 86 mods : forgelin_continuous@2.1.10.0,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,editenchanting@1.0.9,mixinbooter@10.5,the_eight_artifacts@1.0.1,creativecoredummy@1.0.0,itemfilters@1.0.4.2,treeharvester@4.0,jei@4.16.1.301,damageindicatorsmod@1.0,retro_sophisticated_backpacks@retro_sophisticated_backpacks,kabutoaddon@1.0.0,wonderful_enchantments@0.6.0,bettercaves@1.12.2,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,jrftl@1.1,placebo@1.6.0,comforts@1.4.1.3,naturescompass@1.8.5,travelersbackpack@1.0.35,ahznbswordsplus@1.2.1,jutsuaddon@1.0,forgelin@1.8.4,xreliquary@1.12.2-1.3.4.796,harvestcraft@1.12.2zb,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,apotheosis@1.12.4,ftblib@5.4.7.2,waila@1.8.26,walljump@1.3.2,fusion@1.2.4,carryon@1.12.3,colorfulhealthbar@@VERSION@,jeresources@0.9.2.60,narutomodaddononero@1.0.0,betterthanmending@1.1.2,forge@14.23.5.2859,advancementplaques@1.4.10,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,enchdesc@1.1.15,ptrmodellib@1.0.5,mousetweaks@2.10,ftbquests@1202.9.0.15,rerollthingy@1.0.0,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,narutomodaddon@1.0.0,creativecore@1.10.0,narutomod@0.3.1-beta,sharinganaddon@1.0,somanyenchantments@1.0.2,supermartijn642corelib@1.1.18,roguelike@2.4.6,patchouli@1.0-23.6,sealsaddon@1.0,collective@3.0,securitycraft@v1.9.12,lootbags@2.5.8.5,uniquee@2.0.1,multimob@1.0.5,performant@1.12.2-1.5,entityculling@@VER@,singlepersonsleep@2.0.0,armourers_workshop@1.12.2-0.51.0,elevatorid@1.3.14,rinneganaddon@1.3,FML@8.0.99.99,modularui@2.4.3,appleskin@1.0.14,connectedglass@1.1.12,lootr@0.6.2,byg@1.7.1,anbubingobook@1.5.3,cosmeticarmorreworked@1.12.2-v5a,bettermineshafts@1.12.2-2.2.1,uniquebase@1.0.1,carbonconfig@1.2.1
+[19:46:30] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[19:46:30] [Netty Epoll Server IO #1/INFO] [FML]: Attempting connection with missing mods [clearlag] at CLIENT
+[19:46:32] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:46:32] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: gamesforever750[/127.7.10.12:34137] logged in with entity id 2289028 at (354.43229637365766, 85.0, 5.480001161948164)
+[19:46:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 joined the game
+[19:46:32] [Server thread/INFO] [Waila]: Player EntityPlayerMP['gamesforever750'/2289028, l='world', x=354.43, y=85.00, z=5.48] connected. Sending ping
+[19:46:32] [Server thread/INFO] [STDOUT]: [net.narutomod.entity.EntityBijuManager:verifyVesselEntity:482]:  >> Kokuo is sealed in gamesforever750
+[19:47:21] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2235ms behind, skipping 44 tick(s)
+[19:47:39] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3261ms behind, skipping 65 tick(s)
+[19:47:57] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3545ms behind, skipping 70 tick(s)
+[19:48:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo Skeleton moved wrongly!
+[19:48:18] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 9230ms behind, skipping 184 tick(s)
+[19:48:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo (vehicle of gamesforever750) moved too quickly! 6.004322434901951,7.375702643500446,-3.996141429185627
+[19:48:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo (vehicle of gamesforever750) moved too quickly! 6.558822513103223,7.874706076727989,-4.345497459649778
+[19:48:37] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 10789ms behind, skipping 215 tick(s)
+[19:48:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:48:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 0.0,-10.121599183277311,0.0
+[19:48:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[19:48:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo (vehicle of gamesforever750) moved too quickly! -2.8038342299460055,-9.582985402425123,-3.556237131595651
+[19:48:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo (vehicle of gamesforever750) moved too quickly! -2.8528342299459837,-9.582985402425123,-3.6052371315956577
+[19:48:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo (vehicle of gamesforever750) moved too quickly! -3.260381977081124,-10.951983317057284,-4.1202710075378945
+[19:48:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo (vehicle of gamesforever750) moved too quickly! -3.6679297242162647,-12.320981231689444,-4.635304883480131
+[19:48:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo (vehicle of gamesforever750) moved too quickly! -4.075477471351405,-13.689979146321605,-5.150338759422368
+[19:48:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo (vehicle of gamesforever750) moved too quickly! -4.483025218486546,-13.99901668294271,-5.665372635364605
+[19:48:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo (vehicle of gamesforever750) moved too quickly! -4.890572876214719,-13.99901668294271,-6.180406421899875
+[19:48:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo (vehicle of gamesforever750) moved too quickly! -5.2981205339428925,-9.99901668294271,-6.695440208435144
+[19:48:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo (vehicle of gamesforever750) moved too quickly! -5.705668191671066,-9.99901668294271,-7.210473994970414
+[19:48:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo (vehicle of gamesforever750) moved too quickly! -5.754668191671044,-9.99901668294271,-7.259473994970421
+[19:48:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo (vehicle of gamesforever750) moved too quickly! -5.780887114716393,-9.99901668294271,-7.285692918015826
+[19:48:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo (vehicle of gamesforever750) moved too quickly! -2.852341628017143,-9.876985402425163,-3.6047445296669025
+[19:48:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo (vehicle of gamesforever750) moved too quickly! -3.2598893751522837,-11.245983317057323,-4.119778405609139
+[19:48:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo (vehicle of gamesforever750) moved too quickly! -3.6674371222874242,-12.614981231689484,-4.634812281551376
+[19:48:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo (vehicle of gamesforever750) moved too quickly! -4.074984869422565,-13.983979146321644,-5.149846157493613
+[19:48:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo (vehicle of gamesforever750) moved too quickly! -4.482532616557705,-13.99901668294271,-5.66488003343585
+[19:48:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:48:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:48:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:48:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:48:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 12027ms behind, skipping 240 tick(s)
+[19:49:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:49:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[19:49:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo (vehicle of gamesforever750) moved too quickly! 5.794203932523487,-7.0,4.390172678172661
+[19:49:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo (vehicle of gamesforever750) moved too quickly! 6.4278655354974035,-7.950999999999993,4.501741663098414
+[19:49:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo (vehicle of gamesforever750) moved too quickly! 7.063370233297064,-7.950999999999993,4.592648206174459
+[19:49:07] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5949ms behind, skipping 118 tick(s)
+[19:49:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[19:49:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 0.0,-11.616192670113719,0.0
+[19:49:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 2.8085217351763276,1.459258129214092,9.645629894104786
+[19:49:22] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:49:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported gamesforever750 to TUTUMA]
+[19:49:34] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 10429ms behind, skipping 208 tick(s)
+[19:49:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialspider that already exists with UUID c251ec8a-534e-4ffc-a9ba-5a97df55b857
+[19:50:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported TUTUMA to gamesforever750]
+[19:50:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo Skeleton moved wrongly!
+[19:50:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[19:50:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo Skeleton moved wrongly!
+[19:50:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo Skeleton moved wrongly!
+[19:51:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo Skeleton moved wrongly!
+[19:51:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo Skeleton moved wrongly!
+[19:51:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[19:51:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 0 items!
+[19:52:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo Skeleton moved wrongly!
+[19:52:20] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[19:52:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[19:52:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[19:52:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! -1.5338218328979565,12.571599998474127,-0.19705093622178538
+[19:52:59] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[19:53:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[19:53:11] [Server thread/INFO] [FML]: Loading dimension 449 (world) (net.minecraft.server.dedicated.DedicatedServer@39b15ae1)
+[19:53:11] [Server thread/INFO] [armourers_workshop]: Adding WorldEventListener to world net.minecraft.world.WorldServerMulti@1702050b
+[19:53:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo Skeleton moved wrongly!
+[19:53:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo Skeleton moved wrongly!
+[19:53:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[19:53:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 274 items!
+[19:53:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[19:54:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[19:54:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[19:54:20] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[19:54:22] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2232ms behind, skipping 44 tick(s)
+[19:54:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo Skeleton moved wrongly!
+[19:54:43] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6538ms behind, skipping 130 tick(s)
+[19:54:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:54:59] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2531ms behind, skipping 50 tick(s)
+[19:55:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[19:55:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:55:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:55:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:55:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Susanoo moved wrongly!
+[19:55:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TUTUMA moved too quickly! 0.567771551941405,4.459258129214092,-8.978452638599265
+[19:55:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Teleported TUTUMA to gamesforever750]
+[19:55:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity specialmobs:specialzombie that already exists with UUID 8705cad0-1787-463c-a183-95cda903307a
+[19:55:27] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7739ms behind, skipping 154 tick(s)
+[19:55:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[19:55:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 229 items!
+[19:56:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 48a10c4d-12ce-4e1e-b932-2c6ab51193a5
+[19:56:12] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2389ms behind, skipping 47 tick(s)
+[19:56:48] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 18356ms behind, skipping 367 tick(s)
+[19:56:51] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3903ms behind, skipping 78 tick(s)
+[19:56:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Set own game mode to Creative Mode]
+[19:57:19] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 16104ms behind, skipping 322 tick(s)
+[19:57:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3994ms behind, skipping 79 tick(s)
+[19:57:51] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 15504ms behind, skipping 310 tick(s)
+[19:57:55] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3861ms behind, skipping 77 tick(s)
+[19:58:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Set own game mode to Survival Mode]
+[19:58:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: gamesforever750 was killed by TUTUMA using ninjutsu
+[19:58:30] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:wolf that already exists with UUID ff5e64ce-6228-40a4-a810-91b47623d661
+[19:58:31] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 24224ms behind, skipping 484 tick(s)
+[19:58:39] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7316ms behind, skipping 146 tick(s)
+[19:58:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [gamesforever750: Set own game mode to Creative Mode]
+[19:58:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[19:58:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 599 items!
+[19:59:06] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 8675ms behind, skipping 173 tick(s)
+[20:00:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TUTUMA: Set own game mode to Creative Mode]
+[20:00:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Items will be cleared in 10 seconds!
+[20:00:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Clear Lag] Cleared 20 items!
